@@ -2,4 +2,4 @@
 
 ## ER Model
 
-![](../etl/ER_Models/dtlfa.drawio.svg)
+![](../etl/ER_Models/dtlfa.drawio.png)
