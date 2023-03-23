@@ -1,4 +1,4 @@
 # DTLFA
 
-![](../ER_Models/dtlfa.drawio.png)
+![](../ER_Models/dtlfa.drawio.svg)
 
